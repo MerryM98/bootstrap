@@ -1,0 +1,16 @@
+.col-1,
+.col-2{
+    background-color: green;
+    border: black solid 1px;
+}
+.col-4,
+.col-6{
+    background-color: blue;
+    border: black solid ;
+
+}
+.filaroja{
+    background-color: red;
+    height: 200px;
+    
+}
